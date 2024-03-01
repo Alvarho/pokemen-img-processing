@@ -24,6 +24,7 @@ list_file=[
     "requirement.txt",
     "setup.py",
     "research/trial.ipynb",
+    "templates/index.html",
 
 ]
 
