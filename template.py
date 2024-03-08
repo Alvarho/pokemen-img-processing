@@ -20,7 +20,7 @@ list_file=[
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "dvc.yaml",
-    "param.yaml",
+    "params.yaml",
     "requirement.txt",
     "setup.py",
     "research/trial.ipynb",
